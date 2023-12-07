@@ -1,2 +1,6 @@
 # John-Lemon
-A small 3D horrified game
+Game name: John Lemon's Haunted Jaunt
+
+Creator: Unity Learning
+
+Engine: Unity
